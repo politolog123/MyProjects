@@ -1,0 +1,16 @@
+
+ .item{
+    color: rgb(255, 5, 213);
+    font-size: 30px;
+    margin: 10px;
+   }
+  
+   .item2{
+  color: cadetblue;
+   }
+  
+   .item img{
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+   }

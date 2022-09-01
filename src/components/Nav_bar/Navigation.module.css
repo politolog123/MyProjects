@@ -1,0 +1,28 @@
+.app_nav{
+  grid-area: b;
+  background-color: rgb(160, 252, 23);
+  text-align: center;
+  padding: 20px;
+ }
+
+ .item{
+  color:white;
+  text-align: center;
+ }
+.item a:active{
+  font-size: 15px;
+  color:blue;
+}
+
+.item a:hover{
+  font-size: 30px;
+}
+
+
+a{
+  color: red;
+  text-decoration: none;
+}
+
+
+

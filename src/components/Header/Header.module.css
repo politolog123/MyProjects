@@ -1,0 +1,9 @@
+
+ .app_header img{
+  width: 50px;
+ }
+
+ .app_header{
+  grid-area: a;
+  background-color: greenyellow;
+ }
